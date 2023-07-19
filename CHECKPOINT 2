@@ -1,1 +1,5 @@
-
+As we go ahead with the project, we divided the work of this project that is we started making NLP and RL model.
+I started with NLP model where the first step was data scraping....So I did Data Scraping from Twitter.
+This data includes different tweets for one Volatile (TCS) ad one Non Volatile that is Bosch
+After this we started doing Sentiment Analysis of this stocks, we will start making Reinforcement model using this data which will help to get better idea about the nature of the stock.
+And this will help us to create better portfolio of stocks
